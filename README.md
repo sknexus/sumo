@@ -1,4 +1,4 @@
-# Mozilla Sumo
+# Mozilla SkNexus
 
 This repository is used to track anything related to the platform that powers SuMo and any other projects the team might be working on.
 [Kitsune](https://github.com/mozilla/kitsune) is the platform that powers SuMo (support.mozilla.org).
